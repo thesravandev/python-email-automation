@@ -1,4 +1,4 @@
-# 📧 Python Email Automation (SMTP)
+# Python Email Automation (SMTP)
 
 A simple Python automation project that sends emails automatically using Gmail SMTP.
 
@@ -7,13 +7,7 @@ This project demonstrates:
 - SMTP authentication
 - Real email delivery to inbox
 - Beginner-friendly automation
-
----
-
-## 🚀 Demo
-Terminal → Email Sent → Inbox receives mail  
-(Perfect for reels & portfolio projects)
-
+  
 ---
 
 ## ⚙️ Requirements
